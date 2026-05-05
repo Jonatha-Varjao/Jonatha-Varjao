@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[](https://streak-stats.demolab.com?user=Jonatha-Varjao&theme=dark&card_width=500)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jonatha-Varjao&theme=dark&date_format=j%2Fn%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
